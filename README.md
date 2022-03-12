@@ -23,7 +23,7 @@
 
 ### Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,nextjs,vue,nuxtjs,graphql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,nodejs,react,nextjs,vue,nuxtjs,graphql,postgres,git,vscode,figma)](https://skillicons.dev)
 
 <br />
 
