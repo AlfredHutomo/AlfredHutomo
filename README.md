@@ -1,6 +1,6 @@
 ### Hi! I'm Alfred 👋
 
-[![Website](https://img.shields.io/website?label=alfredhutomo.com&style=plastic&url=https%3A%2F%2Falfredhutomo.com)](https://alfredhutomo.com)
+[![Website](https://img.shields.io/website?label=alfredhutomo.com&style=plastic&url=https%3A%2F%2Falfredhutomo.vercel.app)](https://alfredhutomo.vercel.app)
 
 ## I'm a Creative Developer and an Aspiring Content Creator!!
 
