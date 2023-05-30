@@ -6,8 +6,8 @@
 
 -   🌱 I’m always learning all kind of dev stuff🤣
 -   👯 I’m looking to connect with other people with similar interests
--   🥅 2022 Goals: Contribute in an Open Source Project
--   ⚡ Fun fact: I play the saxophone 🎷and some other instruments
+-   🥅 2023 Goals: Contribute in an Open Source Project
+-   ⚡ Fun fact: I love photography and snow sports
 
 ### Connect with me:
 
