@@ -1,6 +1,6 @@
 ### Hi! I'm Alfred 👋
 
-[![Website](https://img.shields.io/website?label=alfredhutomo.com&style=plastic&url=https%3A%2F%2Falfredhutomo.vercel.app)](https://alfredhutomo.vercel.app)
+[![Website](https://img.shields.io/website?label=alfredhutomo.com&style=plastic&url=https%3A%2F%2Falfredhutomo.vercel.app)](https://alfredtomo.dev)
 
 ## I'm a Creative Developer and an Aspiring Content Creator!!
 
@@ -29,11 +29,11 @@
 
 #### Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=react,vue,nextjs,nuxtjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs)](https://skillicons.dev)
 
 #### Backend
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,java,spring,graphql,mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,java,spring,python,graphql,mysql,postgres)](https://skillicons.dev)
 
 #### Tools
 
@@ -41,7 +41,7 @@
 
 <br />
 
-[website]: https://alfredhutomo.com
+[website]: https://alfredtomo.dev
 [twitter]: https://twitter.com/alfredhutomo
 [instagram]: https://instagram.com/alfredhutomo
 [linkedin]: https://linkedin.com/in/alfred-hutomo
