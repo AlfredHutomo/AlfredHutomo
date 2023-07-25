@@ -1,13 +1,12 @@
-### Hi! I'm Alfred 👋
+### Hi! I'm Alfred
 
-[![Website](https://img.shields.io/website?label=alfredhutomo.com&style=plastic&url=https%3A%2F%2Falfredhutomo.vercel.app)](https://alfredtomo.dev)
+[![Website](https://img.shields.io/website?label=alfredtomo.dev&style=plastic&url=https%3A%2F%2Falfredhutomo.vercel.app)](https://alfredtomo.dev)
 
 ## I'm a Creative Developer and an Aspiring Content Creator!!
 
--   🌱 I’m always learning all kind of dev stuff🤣
--   👯 I’m looking to connect with other people with similar interests
--   🥅 2023 Goals: Contribute in an Open Source Project
--   ⚡ Fun fact: I love photography and snow sports
+-   I’m always learning all kind of coding stuff
+-   2023 Goals: Contribute in an Open Source Project
+-   Fun fact: I love photography and snow sports
 
 ### Connect with me:
 
